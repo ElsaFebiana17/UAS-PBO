@@ -7,8 +7,8 @@ package mahasiswa.java;
 /**
  *
  * @author User
- * Nama : Zalfa Rosiyah Riski 
- * Nim : 22205011
+ * Nama : Elsa Febiana 
+ * Nim : 22205010
  * Jurusan : Teknik Informatika
  */
 
